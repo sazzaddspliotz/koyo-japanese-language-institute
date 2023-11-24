@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/*;
+font-family: 'Raleway', sans-serif;*/
+body{
+	font-family: 'Montserrat', sans-serif !important;
+}
+/*initial css*/
+h1{}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+p{}
+span{}
+.cube{}
+.bar{}
+.navlink{}
+.navlink:hover{}
+.btnuser{}
+.btnuser:hover{}
+.header h2{}
+.header p{}
+.header.bar{}
+/*initial css*/
+/*topheader*/
+.topheader{}
+.topheader p{}
+.topheader .nav-link{}
+.topheader .nav-link:hover{}
+/*topheader*/
+/*navbar*/
+.navbar .nav-link{}
+.navbar .nav-link:hover{}
+/*navbar*/
+/*banner1*/
+.banner1{}
+.banner1 .content{}
+.banner1 h1{}
+.banner1 h5{}
+.banner1 h6{}
+.banner1 .btnuser{}
+.banner1 .btnuser:hover{}
+/*banner1*/
+/*process*/
+.process{}
+.process .content{}
+.process .content:hover{}
+.process .content img{
+	background-color: #000;
+}
+.process .content h5{}
+.process .content p{}
+.process .content i{}
+/*process*/
+/*services*/
+.services{}
+.services .header{}
+.services .header h2{}
+.services .header p{}
+.services .bar{}
+.services .content{}
+.services .content:hover{}
+.services .content img{}
+.services .content h5{}
+.services .content p{}
+.services .content i{}
+/*services*/
+/*bannersteps*/
+.bannersteps{
+	background-image: url(../images/bannerstepbg.png);
+}
+.bannersteps img.iphone{}
+.bannersteps img.logo{}
+.bannersteps .header{}
+.bannersteps .header h2{}
+.bannersteps .header .bar{}
+.bannersteps .cube{}
+.bannersteps h4{}
+.bannersteps p{}
+/*bannersteps*/
+/*banneryellow*/
+.banneryellow{}
+.banneryellow h1{}
+.banneryellow h6{}
+/*banneryellow*/
+/*bannerexperts*/
+.bannerexperts{}
+.bannerexperts .header{}
+.bannerexperts .header h2{}
+.bannerexperts .header p{}
+.bannerexperts .bar{}
+.bannerexperts img{}
+.bannerexperts h5{}
+.bannerexperts h6{}
+/*bannerexperts*/
+/*consultation form*/
+.cosform{
+	background-image: url(../images/bannerstepbg.png);
+}
+.cosform .header{}
+.cosform .header h2{}
+.cosform .header.bar{}
+.cosform form{}
+.cosform form input{}
+.cosform form input:hover,.cosform form textarea:hover{}
+.cosform form input:focus,.cosform form textarea:focus{}
+.cosform form input[type="text"]{}
+.cosform form input[type="email"]{}
+.cosform form input[type="tel"]{}
+.cosform form textarea{}
+.cosform .btnuser{}
+.cosform .btnuser:hover{}
+/*consultation form*/
+/*blogs*/
+.blogs{}
+.blogs .header{}
+.blogs .header h2{}
+.blogs .header p{}
+.blogs .header.bar{}
+.blogs .content{}
+.blogs .content .imgholder{}
+.blogs .content .imgholder img{}
+.blogs .meta{}
+.blogs .meta p{}
+.blogs .content .content-body{}
+.blogs .content .content-body h5{}
+.blogs .content .content-body p{}
+/*blogs*/
+/*userfeedback*/
+.userfeedback{}
+.userfeedback .header{}
+.userfeedback .header h2{}
+.userfeedback .header.bar{}
+/*userfeedback*/
+/*footer*/
+footer{
+	background-color: #000;
+	color: #FFF;
+}
+footer{}
+footer .ftheader{}
+footer .ftheader img{}
+footer .ftheader h4{}
+footer .ftheader .bar{}
+footer p{}
+footer .social{}
+footer .social li{}
+footer .social li a{}
+footer .social li a:hover{}
+footer .nav-item{}
+footer .nav-link{}
+footer .nav-link:hover{}
+footer input[type="email"]{}
+footer input[type="email"]:focus{}
+footer input[type="email"]:hover{}
+footer .bottomfooter{}
+footer .cpy{}
+footer .bottomfooter .nav-link{}
+footer .bottomfooter .nav-link:hover{}
+footer .bottomfooter .nav-item{}
+/*footer*/
+
+
+
+
+
+
